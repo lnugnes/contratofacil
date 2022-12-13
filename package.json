@@ -1,15 +1,14 @@
 {
   "license": "MIT",
-  "name": "celo-truffle",
+  "name": "Hackaton TokenBR",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hackaton WEB3 project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "TokenBR",
   "dependencies": {
     "@truffle/hdwallet-provider": "^2.1.2",
     "dotenv": "^16.0.3"
